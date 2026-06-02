@@ -1,0 +1,1 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/tarasb-source/rest-examples/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/tarasb-source/rest-examples/tree/master)
